@@ -2,7 +2,7 @@ name: Bug 反馈
 description: 提交错误或崩溃报告
 title: "请写一个信息丰富的标题，用几句话描述这个bug"
 labels: ["Status: to verify"]
-type: bug
+#type: bug
 body:
   - type: markdown
     attributes:
